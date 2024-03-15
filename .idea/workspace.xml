@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9eb0d961-5cfe-46ec-af0d-346f9b7f03aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/Questions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/app.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 24 b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge 9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/coding challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/functions44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/main_challenge_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/parsers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/Bonus/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/Bonus/converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/Bonus/kid_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/Bonus/parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/members.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2aacTCicsYDufqH2TX80OIL64O8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Cheking_name_by_rank.executor": "Run",
+    "Python.Numbered todos.executor": "Run",
+    "Python.app1.executor": "Run",
+    "Python.checking_rank_refined.executor": "Run",
+    "Python.coding challenge 10.executor": "Run",
+    "Python.coding challenge 11.executor": "Run",
+    "Python.coding challenge 12.executor": "Run",
+    "Python.coding challenge 13.executor": "Run",
+    "Python.coding challenge 14.executor": "Run",
+    "Python.coding challenge 15.executor": "Run",
+    "Python.coding challenge 16.executor": "Run",
+    "Python.coding challenge 17.executor": "Run",
+    "Python.coding challenge 18.executor": "Run",
+    "Python.coding challenge 19.executor": "Run",
+    "Python.coding challenge 20.executor": "Run",
+    "Python.coding challenge 21.executor": "Run",
+    "Python.coding challenge 22.executor": "Run",
+    "Python.coding challenge 23.executor": "Run",
+    "Python.coding challenge 24 b.executor": "Run",
+    "Python.coding challenge 24.executor": "Run",
+    "Python.coding challenge 25.executor": "Run",
+    "Python.coding challenge 26.executor": "Run",
+    "Python.coding challenge 27.executor": "Run",
+    "Python.coding challenge 28.executor": "Run",
+    "Python.coding challenge 29.executor": "Run",
+    "Python.coding challenge 30.executor": "Run",
+    "Python.coding challenge 31.executor": "Run",
+    "Python.coding challenge 32.executor": "Run",
+    "Python.coding challenge 33.executor": "Run",
+    "Python.coding challenge 34.executor": "Run",
+    "Python.coding challenge 35.executor": "Run",
+    "Python.coding challenge 36.executor": "Run",
+    "Python.coding challenge 37.executor": "Run",
+    "Python.coding challenge 38.executor": "Run",
+    "Python.coding challenge 39.executor": "Run",
+    "Python.coding challenge 40.executor": "Run",
+    "Python.coding challenge 41.executor": "Run",
+    "Python.coding challenge 42.executor": "Run",
+    "Python.coding challenge 43.executor": "Run",
+    "Python.coding challenge 44.executor": "Run",
+    "Python.coding challenge 45.executor": "Run",
+    "Python.coding challenge 46.executor": "Run",
+    "Python.coding challenge 47.executor": "Run",
+    "Python.coding challenge 48.executor": "Run",
+    "Python.coding challenge 49.executor": "Run",
+    "Python.coding challenge 5.executor": "Run",
+    "Python.coding challenge 50.executor": "Run",
+    "Python.coding challenge 51.executor": "Run",
+    "Python.coding challenge 52.executor": "Run",
+    "Python.coding challenge 6.executor": "Run",
+    "Python.coding challenge 8.executor": "Run",
+    "Python.coding challenge 9.executor": "Run",
+    "Python.coding challenge.executor": "Run",
+    "Python.main,py.executor": "Run",
+    "Python.main.2.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_challenge_1.executor": "Run",
+    "Python.members.executor": "Run",
+    "Python.parsers.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "Python.todo_add_Show_edit_and_exit.executor": "Run",
+    "Python.todo_list_view_and_exit.executor": "Run",
+    "Python.todo_view_and_exit_improved.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Saxone/Downloads/members.txt",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Saxone\PycharmProjects\pythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Saxone\PycharmProjects\pythonProject" />
+      <recent name="C:\Users\Saxone\PycharmProjects\pythonProject\Challenge" />
+      <recent name="C:\Users\Saxone\PycharmProjects\pythonProject\files" />
+      <recent name="C:\Users\Saxone\PycharmProjects\pythonProject\app1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main_challenge_1">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Saxone\PycharmProjects\pythonProject\app1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coding challenge 50" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Saxone\PycharmProjects\pythonProject\app1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenge/coding challenge 50.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coding challenge 51" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Saxone\PycharmProjects\pythonProject\app1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenge/coding challenge 51.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coding challenge 52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Saxone\PycharmProjects\pythonProject\app1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenge/coding challenge 52.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_challenge_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Saxone\PycharmProjects\pythonProject\app1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenge/main_challenge_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parsers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Saxone\PycharmProjects\pythonProject\app1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenge/parsers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_challenge_1" />
+        <item itemvalue="Python.parsers" />
+        <item itemvalue="Python.coding challenge 52" />
+        <item itemvalue="Python.coding challenge 51" />
+        <item itemvalue="Python.coding challenge 50" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9eb0d961-5cfe-46ec-af0d-346f9b7f03aa" name="Changes" comment="" />
+      <created>1704560138599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704560138599</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
